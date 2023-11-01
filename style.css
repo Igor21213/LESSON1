@@ -1,0 +1,48 @@
+body{
+	margim: 0;
+	background-color: #e3c259;
+}
+
+.img{
+	width: 500px;
+	height: 500px;
+	background-image: url("sss.jpg");
+	background-size: 500px;
+	background-repeat: no-repeat;
+	margin-left: 400px;
+	border-radius: 10px;
+}
+
+.text{
+	color: red;
+	font-size: 24px;
+	font-weight: 700;
+	margin-left: 100px;
+	position: absolute;
+	top: 20px;
+}
+
+
+.text1{
+	color: blue;
+	font-size: 24px;
+	font-weight: 700;
+	margin-left: 100px;
+	position: absolute;
+	top: 50px;
+}
+
+.VK{
+	width: 120px;
+	height: 80px;
+	position: absolute;
+	top: 270px;
+}
+
+.TG{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 280px;
+	margin-left: 100px;
+}
